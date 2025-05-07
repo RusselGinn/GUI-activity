@@ -1,5 +1,5 @@
 # GUI-activity
-# This my snapshots 
+# This my repository snapshots 
 
 ![image](https://github.com/user-attachments/assets/63f0ad4a-7a60-44cd-85a3-6b27198c1531)
 
