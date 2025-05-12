@@ -1,6 +1,6 @@
 # Diary GUI-activity
 
-A simple Java Swing application for managing diary entries.
+A simple Java Swing application for managing diary entries located in the GUI_DIARY_NEW/GUI_DIARY folder.
 
 # Features
 1. Add New Diary: Create entries with ID, date, and content. Data is saved to a text file using % as a delimiter.
