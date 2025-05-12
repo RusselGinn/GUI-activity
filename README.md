@@ -10,8 +10,11 @@ A simple Java Swing application for managing diary entries located in the GUI_DI
 
 # Components
 DiaryMenu.java: Main menu with navigation buttons.
+
 NewDiary.java: Form for adding new entries and saving to file.
+
 ViewDiaries.java: Displays all entries with a "Load" button to refresh data.
+
 ViewSpecificDiaries.java: Allows searching by ID and includes a "Clear" button to reset results.
 
 # Usage
